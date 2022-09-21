@@ -1,0 +1,5 @@
+{
+  "solidity.remappings": [
+    "@chainlink/=C:Userskonon.browniepackagessmartcontractkitchainlink-brownie-contracts@1.1.1"
+  ]
+}
